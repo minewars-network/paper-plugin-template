@@ -1,4 +1,4 @@
-package pl.mrstudios.example.util;
+package pl.minewars.example.util;
 
 import org.jetbrains.annotations.NotNull;
 

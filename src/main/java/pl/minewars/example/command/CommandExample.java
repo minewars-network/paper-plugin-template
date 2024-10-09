@@ -1,4 +1,4 @@
-package pl.mrstudios.example.command;
+package pl.minewars.example.command;
 
 import dev.rollczi.litecommands.annotations.command.Command;
 import dev.rollczi.litecommands.annotations.context.Context;

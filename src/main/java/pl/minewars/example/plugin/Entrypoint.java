@@ -1,10 +1,10 @@
-package pl.mrstudios.example.plugin;
+package pl.minewars.example.plugin;
 
 import dev.rollczi.litecommands.adventure.LiteAdventureExtension;
 import org.bukkit.plugin.java.JavaPlugin;
-import pl.mrstudios.example.command.CommandExample;
-import pl.mrstudios.example.config.Configuration;
-import pl.mrstudios.example.config.ConfigurationFactory;
+import pl.minewars.example.command.CommandExample;
+import pl.minewars.example.config.Configuration;
+import pl.minewars.example.config.ConfigurationFactory;
 
 import static dev.rollczi.litecommands.annotations.LiteCommandsAnnotations.ofClasses;
 import static dev.rollczi.litecommands.bukkit.LiteBukkitFactory.builder;
@@ -12,7 +12,7 @@ import static dev.rollczi.litecommands.message.LiteMessages.INVALID_USAGE;
 import static dev.rollczi.litecommands.message.LiteMessages.MISSING_PERMISSIONS;
 import static dev.rollczi.litecommands.schematic.SchematicFormat.angleBrackets;
 import static net.kyori.adventure.text.minimessage.MiniMessage.miniMessage;
-import static pl.mrstudios.example.util.TranslationUtility.translationOf;
+import static pl.minewars.example.util.TranslationUtility.translationOf;
 
 @SuppressWarnings({ "FieldCanBeLocal", "UnstableApiUsage" })
 public class Entrypoint extends JavaPlugin {

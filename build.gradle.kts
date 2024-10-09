@@ -10,7 +10,7 @@ plugins {
     id("net.minecrell.plugin-yml.paper") version "0.6.0"
 }
 
-project.group = "pl.mrstudios.example"
+project.group = "pl.minewars.example"
 project.version = "1.0.0"
 
 java {
@@ -33,8 +33,8 @@ paper {
         "MrStudios Industries"
     )
 
-    main = "pl.mrstudios.example.plugin.Entrypoint"
-    loader = "pl.mrstudios.example.plugin.loader.PluginDependencyLoader"
+    main = "pl.minewars.example.plugin.Entrypoint"
+    loader = "pl.minewars.example.plugin.loader.PluginDependencyLoader"
 
     apiVersion = "1.19"
     generateLibrariesJson = true

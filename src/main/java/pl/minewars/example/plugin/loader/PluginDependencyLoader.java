@@ -1,4 +1,4 @@
-package pl.mrstudios.example.plugin.loader;
+package pl.minewars.example.plugin.loader;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;

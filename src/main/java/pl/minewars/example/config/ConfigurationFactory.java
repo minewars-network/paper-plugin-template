@@ -1,4 +1,4 @@
-package pl.mrstudios.example.config;
+package pl.minewars.example.config;
 
 import eu.okaeri.configs.OkaeriConfig;
 import eu.okaeri.configs.yaml.bukkit.YamlBukkitConfigurer;

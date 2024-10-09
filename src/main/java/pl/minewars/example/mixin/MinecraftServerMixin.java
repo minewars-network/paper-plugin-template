@@ -1,4 +1,4 @@
-package pl.mrstudios.example.mixin;
+package pl.minewars.example.mixin;
 
 import net.minecraft.obfuscate.DontObfuscate;
 import net.minecraft.server.MinecraftServer;
