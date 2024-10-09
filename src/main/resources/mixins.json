@@ -1,0 +1,7 @@
+{
+  "package": "pl.mrstudios.example.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MinecraftServerMixin"
+  ]
+}
